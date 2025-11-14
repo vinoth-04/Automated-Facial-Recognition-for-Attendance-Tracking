@@ -177,8 +177,8 @@ This project is open source and available for educational purposes.
 
 ## 👨‍💻 Author
 
-Created by: [Your Name]
-GitHub: [Your GitHub Profile]
+Created by: VINOTH KUMAR A
+GitHub: https://github.com/vinoth-04
 
 ## 🤝 Contributing
 
